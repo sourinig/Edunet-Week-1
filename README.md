@@ -32,8 +32,6 @@ The ultimate goal is to combine conversational AI with data analytics to effecti
 
 -----
 
------
-
 #### ⚙ Features
 
 🔹 **EV Data Analysis**
@@ -42,8 +40,6 @@ The ultimate goal is to combine conversational AI with data analytics to effecti
   * **Exploratory Data Analysis (EDA):** Generates key insights on the electric vehicle market.
   * **Visualization:** Features trends in vehicle types, cost, and charging efficiency.
   * **Future Scope:** The cleaned dataset is prepared for building machine learning models (e.g., for EV range or price prediction).
-
------
 
 -----
 
