@@ -1,0 +1,354 @@
+Row_ID,title,model,battery,price-range,0 - 100,Top Speed,Range*,Efficiency*,Fastcharge*,Germany_price_before_incentives,Netherlands_price_before_incentives,UK_price_after_incentives,Drive_Configuration,Tow_Hitch,Towing_capacity_in_kg,Number_of_seats
+1,Tesla,Model 3,57.5,104,6.1 sec,201 km/h,415 km,139 Wh/km,690 km/h,"€41,970","€41,990","£39,990",Rear Wheel Drive,Towbar possible,1000,5
+2,Tesla,Model Y,57.5,137,6.9 sec,217 km/h,350 km,164 Wh/km,580 km/h,"€45,970","€45,990","£44,990",Rear Wheel Drive,Towbar possible,1600,5
+3,Tesla,Model Y Long Range Dual Motor,75,130,5.0 sec,217 km/h,435 km,172 Wh/km,670 km/h,"€55,970","€52,990","£52,990",All Wheel Drive,Towbar possible,1600,5
+4,Tesla,Model 3 Long Range Dual Motor,75,106,4.4 sec,201 km/h,500 km,150 Wh/km,770 km/h,"€50,970","€49,990","£49,990",All Wheel Drive,Towbar possible,1000,5
+5,Tesla,Model Y Long Range RWD,75,109,5.9 sec,217 km/h,460 km,163 Wh/km,710 km/h,"€49,970","€49,990",N/A,Rear Wheel Drive,Towbar possible,1600,5
+6,Byd,ATTO 3,60.5,121,7.3 sec,160 km/h,330 km,183 Wh/km,370 km/h,"€37,990","€38,990","£37,195",Front Wheel Drive,,,5
+7,Mg,MG4 Electric 64 kWh,61.7,102,7.9 sec,160 km/h,360 km,171 Wh/km,630 km/h,"€39,990","€35,785","£29,495",Rear Wheel Drive,Towbar possible,500,5
+8,Byd,SEAL 82.5 kWh AWD Excellence,82.5,107,3.8 sec,180 km/h,490 km,168 Wh/km,540 km/h,"€50,990","€50,990","£48,695",All Wheel Drive,,,5
+9,Tesla,Model Y Performance,75,152,3.8 sec,250 km/h,415 km,181 Wh/km,640 km/h,"€60,790","€58,990","£59,990",All Wheel Drive,Towbar possible,1600,5
+10,Bmw,i4 eDrive40,80.7,122,5.7 sec,190 km/h,515 km,157 Wh/km,800 km/h,"€59,200","€62,992","£57,890",Rear Wheel Drive,Towbar possible,1600,5
+11,Citroen,e-C3,44,90,11.0 sec,135 km/h,265 km,166 Wh/km,340 km/h,"€23,300","€24,290","* £21,000",Front Wheel Drive,Towbar possible,550,5
+12,Bmw,iX xDrive40,71,225,6.1 sec,200 km/h,360 km,197 Wh/km,480 km/h,"€77,300","€84,998","£69,905",All Wheel Drive,Towbar possible,2500,5
+13,Volkswagen,ID.4 Pro,77,114,6.7 sec,180 km/h,435 km,177 Wh/km,650 km/h,"€46,335","€49,990","£46,035",Rear Wheel Drive,Towbar possible,1000,5
+14,Byd,DOLPHIN 60.4 kWh,60.5,101,7.0 sec,160 km/h,340 km,178 Wh/km,340 km/h,"€32,990","€35,490","£30,195",Front Wheel Drive,Towbar possible,0,5
+15,Volvo,EX30 Single Motor ER,64,118,5.3 sec,180 km/h,360 km,178 Wh/km,600 km/h,"€41,790","€41,495","£38,545",Rear Wheel Drive,Towbar possible,1400,5
+16,Tesla,Model S Plaid,95,199,2.3 sec,282 km/h,560 km,170 Wh/km,780 km/h,"€110,970","€108,990","* £100,000",All Wheel Drive,Towbar possible,1600,5
+17,Tesla,Model S Dual Motor,95,167,3.2 sec,250 km/h,575 km,165 Wh/km,800 km/h,"€95,970","€93,990","* £85,000",All Wheel Drive,Towbar possible,1600,5
+18,Kia,Niro EV,64.8,111,7.8 sec,167 km/h,385 km,168 Wh/km,390 km/h,"€45,690","€39,995","£37,295",Front Wheel Drive,Towbar possible,750,5
+19,Hyundai,Kona Electric 65 kWh,65.4,116,7.8 sec,170 km/h,390 km,168 Wh/km,400 km/h,"€47,190","€43,995","£38,595",Front Wheel Drive,Towbar possible,750,5
+20,Tesla,Model 3 Performance,75,135,3.2 sec,262 km/h,455 km,165 Wh/km,700 km/h,"€57,970","€56,990","£59,990",All Wheel Drive,,,5
+21,Byd,HAN,85.4,146,3.9 sec,180 km/h,475 km,180 Wh/km,450 km/h,"€69,020","€69,990",N/A,All Wheel Drive,,,5
+22,Cupra,Born 150 kW - 58 kWh,58,113,7.3 sec,160 km/h,350 km,166 Wh/km,470 km/h,"€39,370","€36,939","£36,475",Rear Wheel Drive,,,5
+23,Fiat,500e Hatchback 42 kWh,37.3,149,9.0 sec,150 km/h,235 km,159 Wh/km,390 km/h,"€34,990","€34,490","£31,195",Front Wheel Drive,,,4
+24,Byd,SEAL 82.5 kWh RWD Design,82.5,96,5.9 sec,180 km/h,500 km,165 Wh/km,550 km/h,"€44,990","€45,990","£45,695",Rear Wheel Drive,,,5
+25,Byd,TANG,86.4,199,4.6 sec,180 km/h,355 km,243 Wh/km,420 km/h,"€71,400","€69,990",N/A,All Wheel Drive,Towbar possible,1500,7
+26,Dacia,Spring Electric 45,25,137,19.1 sec,125 km/h,165 km,152 Wh/km,180 km/h,"€22,550",N/A,N/A,Front Wheel Drive,,,4
+27,Renault,Scenic E-Tech EV87 220hp,87,98,7.9 sec,170 km/h,490 km,178 Wh/km,510 km/h,"€48,900","€47,970","£40,995",Front Wheel Drive,Towbar possible,1100,5
+28,Bmw,iX3,74,184,6.8 sec,180 km/h,385 km,192 Wh/km,520 km/h,"€67,300","€71,462","£64,165",Rear Wheel Drive,Towbar possible,750,5
+29,Bmw,iX1 xDrive30,64.7,147,5.6 sec,180 km/h,380 km,170 Wh/km,510 km/h,"€55,000","€57,850","£47,465",All Wheel Drive,Towbar possible,1200,5
+30,Tesla,Model Y,57.5,137,6.9 sec,217 km/h,350 km,164 Wh/km,810 km/h,"€45,970","€45,990","£44,990",Rear Wheel Drive,Towbar possible,1600,5
+31,Skoda,Enyaq 85,77,111,6.7 sec,180 km/h,450 km,171 Wh/km,670 km/h,"€48,900","€49,990","£44,540",Rear Wheel Drive,Towbar possible,1000,5
+32,Nio,ET7 75 kWh,70.5,208,3.8 sec,200 km/h,400 km,176 Wh/km,600 km/h,"€81,900","€84,900",N/A,All Wheel Drive,Towbar possible,2000,5
+33,Audi,Q6 e-tron quattro,94.9,170,5.9 sec,210 km/h,460 km,206 Wh/km,920 km/h,"€74,700","* €80,000","£68,975",All Wheel Drive,Towbar possible,2400,5
+34,Byd,SEAL U 71.8 kWh Comfort,71.8,126,9.3 sec,175 km/h,340 km,211 Wh/km,320 km/h,N/A,"€42,990",N/A,Front Wheel Drive,,,5
+35,Mg,ZS EV Long Range,68.3,105,8.4 sec,175 km/h,370 km,185 Wh/km,420 km/h,"€37,990","€40,185","£32,995",Front Wheel Drive,Towbar possible,500,5
+36,Toyota,bZ4X FWD,64,144,7.5 sec,160 km/h,340 km,188 Wh/km,510 km/h,"€47,490","€45,995","£46,110",Front Wheel Drive,Towbar possible,750,5
+37,Renault,5 E-Tech 52kWh 150hp,52,97,7.5 sec,150 km/h,330 km,158 Wh/km,420 km/h,"* €32,000","* €32,000","* £28,000",Front Wheel Drive,Towbar possible,500,5
+38,Bmw,i4 M50,80.7,170,3.9 sec,225 km/h,450 km,179 Wh/km,700 km/h,"€70,800","€76,786","£71,085",All Wheel Drive,Towbar possible,1600,5
+39,Renault,Megane E-Tech EV60 220hp,60,113,7.4 sec,160 km/h,380 km,158 Wh/km,530 km/h,"€46,600","€39,370","£36,995",Front Wheel Drive,Towbar possible,900,5
+40,Rolls-royce,Spectre,102,828,4.5 sec,250 km/h,465 km,219 Wh/km,540 km/h,"€379,015","€396,275","£330,000",All Wheel Drive,,,4
+41,Kia,EV6 Long Range 2WD,74,126,7.3 sec,185 km/h,410 km,180 Wh/km,1070 km/h,"€51,990","€50,995","£45,245",Rear Wheel Drive,Towbar possible,1600,5
+42,Honda,e:Ny1,61.9,147,7.6 sec,160 km/h,335 km,185 Wh/km,300 km/h,"€47,590","€48,750","£44,995",Front Wheel Drive,,,5
+43,Volkswagen,ID.3 Pro,58,122,7.3 sec,160 km/h,350 km,166 Wh/km,450 km/h,"€39,995","€44,990","£37,115",Rear Wheel Drive,Towbar possible,0,5
+44,Renault,Zoe ZE50 R110,52,114,11.4 sec,135 km/h,315 km,165 Wh/km,230 km/h,"€36,840","€34,895",N/A,Front Wheel Drive,,,5
+45,Nissan,Leaf,39,144,7.9 sec,144 km/h,235 km,166 Wh/km,230 km/h,"€33,400","€35,090","£28,995",Front Wheel Drive,,,5
+46,Lucid,Air Grand Touring,112,196,3.0 sec,270 km/h,665 km,168 Wh/km,840 km/h,"€129,000","€132,000",N/A,All Wheel Drive,,,5
+47,Hongqi,E-HS9 99 kWh,90,216,4.9 sec,200 km/h,370 km,243 Wh/km,430 km/h,N/A,"€79,995",N/A,All Wheel Drive,Towbar possible,1500,5
+48,Cupra,Born 170 kW - 77 kWh,77,105,7.0 sec,160 km/h,450 km,171 Wh/km,630 km/h,"€46,450","€46,989","£41,975",Rear Wheel Drive,,,4
+49,Zeekr,001 Long Range RWD,94,116,7.2 sec,200 km/h,525 km,179 Wh/km,710 km/h,"€60,970","€60,490",N/A,Rear Wheel Drive,Towbar possible,1500,5
+50,Hyundai,IONIQ 6 Long Range 2WD,74,107,7.4 sec,185 km/h,495 km,149 Wh/km,1290 km/h,"€54,000","€50,895","£47,040",Rear Wheel Drive,Towbar possible,1500,5
+51,Hyundai,IONIQ 5 Long Range 2WD,74,132,7.3 sec,185 km/h,390 km,190 Wh/km,1020 km/h,"€47,900","€52,895","£46,945",Rear Wheel Drive,Towbar possible,1600,5
+52,Porsche,Macan 4 Electric,95,174,5.2 sec,220 km/h,485 km,196 Wh/km,970 km/h,"€84,100","€88,899","£69,800",All Wheel Drive,Towbar possible,2000,5
+53,Bmw,i7 xDrive60,101.7,272,4.7 sec,240 km/h,510 km,199 Wh/km,760 km/h,"€139,900","€145,453","£113,970",All Wheel Drive,Towbar possible,2000,5
+54,Bmw,i4 eDrive35,67,134,6.0 sec,190 km/h,430 km,156 Wh/km,580 km/h,"€56,500","€59,362","£49,995",Rear Wheel Drive,Towbar possible,1600,5
+55,Hyundai,IONIQ 5 N,80,194,3.4 sec,260 km/h,385 km,208 Wh/km,950 km/h,"€74,900","€73,995","£65,000",All Wheel Drive,,,5
+56,Volkswagen,ID.7 Pro,77,126,6.5 sec,180 km/h,475 km,162 Wh/km,730 km/h,"€56,995","€57,990","£55,570",Rear Wheel Drive,Towbar possible,1000,5
+57,Mercedes-benz,EQB 250+,70.5,136,8.9 sec,160 km/h,415 km,170 Wh/km,490 km/h,"€53,514","€54,966","£52,800",Front Wheel Drive,Towbar possible,1400,7
+58,Mg,MG4 Electric 51 kWh,50.8,109,7.7 sec,160 km/h,300 km,169 Wh/km,380 km/h,"€34,990","€32,285","£26,995",Rear Wheel Drive,Towbar possible,500,5
+59,Audi,Q4 e-tron 45,77,132,6.7 sec,180 km/h,420 km,183 Wh/km,630 km/h,"€52,950","€54,865","£50,745",Rear Wheel Drive,Towbar possible,1000,5
+60,Kia,EV9 99.8 kWh AWD,96,170,6.0 sec,200 km/h,435 km,221 Wh/km,830 km/h,"€76,490","€71,495",N/A,All Wheel Drive,Towbar possible,2500,7
+61,Smart,#1 Pro+,62,126,6.7 sec,180 km/h,335 km,185 Wh/km,520 km/h,"€42,490","€42,935","£35,950",Rear Wheel Drive,Towbar possible,1600,5
+62,Audi,Q8 e-tron 55 quattro,106,170,5.6 sec,200 km/h,505 km,210 Wh/km,640 km/h,"€85,300","€82,985","£77,800",All Wheel Drive,Towbar possible,1800,5
+63,Nissan,Ariya 87kWh,87,117,7.6 sec,160 km/h,450 km,193 Wh/km,540 km/h,"€58,990","€47,990","£44,645",Front Wheel Drive,Towbar possible,750,5
+64,Ford,Mustang Mach-E ER RWD,91,126,7.0 sec,180 km/h,480 km,190 Wh/km,420 km/h,"€58,500","€54,400","£59,830",Rear Wheel Drive,Towbar possible,1500,5
+65,Bmw,iX xDrive50,105.2,213,4.6 sec,200 km/h,505 km,208 Wh/km,680 km/h,"€100,100","€105,097","£102,755",All Wheel Drive,Towbar possible,2500,5
+66,Volvo,EX30 Single Motor,49,136,5.7 sec,180 km/h,275 km,178 Wh/km,420 km/h,"€36,590","€36,795","£33,795",Rear Wheel Drive,Towbar possible,1000,5
+67,Bmw,iX1 eDrive20,64.7,127,8.3 sec,170 km/h,390 km,166 Wh/km,520 km/h,"€47,900","€48,316","£45,465",Front Wheel Drive,Towbar possible,750,5
+68,Hyundai,IONIQ 6 Long Range AWD,74,135,5.1 sec,185 km/h,440 km,168 Wh/km,1150 km/h,"€61,100","€59,395","£50,540",All Wheel Drive,Towbar possible,1500,5
+69,Kia,EV6 GT,74,198,3.5 sec,260 km/h,360 km,206 Wh/km,940 km/h,"€72,990","€69,295","£62,645",All Wheel Drive,Towbar possible,1800,5
+70,Opel,Astra Electric,50.8,131,9.2 sec,170 km/h,320 km,159 Wh/km,510 km/h,"€41,990","€39,999","£37,795",Front Wheel Drive,Towbar possible,0,5
+71,Mercedes-benz,EQA 250,66.5,129,8.6 sec,160 km/h,395 km,168 Wh/km,570 km/h,"€50,777",N/A,N/A,Front Wheel Drive,Towbar possible,1500,5
+72,Peugeot,e-3008 98 kWh Long Range,98,111,8.9 sec,170 km/h,510 km,192 Wh/km,660 km/h,"* €55,000","* €55,000","* £52,000",Front Wheel Drive,Towbar possible,1200,5
+73,Mercedes-benz,EQS 450+,108.4,175,6.1 sec,210 km/h,635 km,171 Wh/km,950 km/h,"€109,551","€112,720",N/A,Rear Wheel Drive,Towbar possible,750,5
+74,Polestar,2 Long Range Single Motor,79,112,6.2 sec,205 km/h,470 km,168 Wh/km,700 km/h,"€49,975","€51,200","£48,950",Rear Wheel Drive,Towbar possible,1500,5
+75,Peugeot,e-3008 73 kWh,73,129,8.7 sec,170 km/h,385 km,190 Wh/km,440 km/h,"€48,650","€48,190","£45,850",Front Wheel Drive,Towbar possible,1250,5
+76,Volkswagen,ID. Buzz Pro,77,192,10.2 sec,145 km/h,345 km,223 Wh/km,480 km/h,"€64,581","€66,160","£58,915",Rear Wheel Drive,Towbar possible,1000,5
+77,Hyundai,IONIQ 5 Long Range AWD,74,154,5.1 sec,185 km/h,385 km,192 Wh/km,1010 km/h,"€59,200","€60,995","£50,445",All Wheel Drive,Towbar possible,1600,5
+78,Jeep,Avenger Electric,50.8,127,9.0 sec,150 km/h,310 km,164 Wh/km,500 km/h,"€38,500","€39,500","£34,800",Front Wheel Drive,,,5
+79,Hyundai,IONIQ 5 Standard Range 2WD,54,162,8.5 sec,185 km/h,295 km,183 Wh/km,720 km/h,"€43,900","€49,295","£43,445",Rear Wheel Drive,Towbar possible,750,5
+80,Zeekr,001 Performance AWD,94,127,3.8 sec,200 km/h,500 km,188 Wh/km,670 km/h,"€63,970","€63,490",N/A,All Wheel Drive,Towbar possible,2000,5
+81,Bmw,i5 eDrive40 Sedan,81.2,165,6.0 sec,193 km/h,470 km,173 Wh/km,750 km/h,"€70,200","€77,572","£74,105",Rear Wheel Drive,Towbar possible,1500,5
+82,Citroen,e-C4,46.3,127,9.7 sec,150 km/h,290 km,160 Wh/km,460 km/h,"€36,040","€37,830","£31,995",Front Wheel Drive,,,5
+83,Ford,Explorer Extended Range RWD,77,115,6.4 sec,180 km/h,430 km,179 Wh/km,640 km/h,"€49,500","€45,950","£45,875",Rear Wheel Drive,Towbar possible,1000,5
+84,Kia,EV6 Long Range AWD,74,146,5.2 sec,185 km/h,400 km,185 Wh/km,1050 km/h,"€55,980","€59,995","£51,745",All Wheel Drive,Towbar possible,1600,5
+85,Mazda,MX-30,30,212,9.7 sec,140 km/h,170 km,176 Wh/km,170 km/h,"€35,990","€36,440","£31,250",Front Wheel Drive,,,5
+86,Alfa romeo,Junior Elettrica 54 kWh Veloce,50.8,152,7.0 sec,150 km/h,305 km,167 Wh/km,490 km/h,"* €46,000","* €45,000","* £42,000",Front Wheel Drive,,,5
+87,Volvo,EX30 Twin Motor Performance,64,145,3.6 sec,180 km/h,335 km,191 Wh/km,560 km/h,"€48,490","€49,995","£40,995",All Wheel Drive,Towbar possible,1600,5
+88,Mini,Countryman E,64.7,117,8.6 sec,170 km/h,385 km,168 Wh/km,520 km/h,"€43,500","€43,490","£42,080",Front Wheel Drive,Towbar possible,750,5
+89,Nio,ET5 100 kWh,90,140,4.0 sec,200 km/h,500 km,180 Wh/km,520 km/h,"€68,500","€71,700",N/A,All Wheel Drive,Towbar possible,1400,5
+90,Volkswagen,ID. Buzz LWB Pro S,86,199,8.0 sec,160 km/h,370 km,232 Wh/km,470 km/h,"* €73,000","* €73,000","* £65,000",Rear Wheel Drive,Towbar possible,,7
+91,Tesla,Model X Dual Motor,95,226,3.9 sec,250 km/h,475 km,200 Wh/km,660 km/h,"€100,970","€100,993","* £105,000",All Wheel Drive,Towbar possible,2250,7
+92,Volkswagen,ID.7 Pro S,86,120,7.0 sec,180 km/h,520 km,165 Wh/km,800 km/h,"* €60,000","* €60,000","* £59,000",Rear Wheel Drive,,,5
+93,Mg,MG4 Electric 77 kWh,74.4,101,6.5 sec,180 km/h,425 km,175 Wh/km,430 km/h,"€45,990","€41,285","£36,495",Rear Wheel Drive,Towbar possible,500,5
+94,Dacia,Spring Electric 45,25,109,19.1 sec,125 km/h,165 km,152 Wh/km,180 km/h,"* €18,000","€18,950","£14,995",Front Wheel Drive,,,4
+95,Mg,MG5 Electric Long Range,57.4,112,7.7 sec,185 km/h,335 km,171 Wh/km,330 km/h,"€38,490","€38,885","£30,995",Front Wheel Drive,Towbar possible,500,5
+96,Kia,EV9 99.8 kWh AWD GT-Line,96,193,5.3 sec,200 km/h,425 km,226 Wh/km,810 km/h,"€82,380","€78,895","£73,245",All Wheel Drive,Towbar possible,2500,7
+97,Mercedes-benz,EQV 300 Long,90,266,12.1 sec,160 km/h,315 km,286 Wh/km,320 km/h,"€79,048","€88,626",N/A,Front Wheel Drive,,,7
+98,Byd,SEAL U 87 kWh Design,87,114,9.6 sec,175 km/h,405 km,215 Wh/km,370 km/h,N/A,"€45,990",N/A,Front Wheel Drive,,,5
+99,Byd,DOLPHIN 44.9 kWh Active,44.9,115,12.3 sec,150 km/h,255 km,176 Wh/km,260 km/h,"* €28,000","€29,990","* £26,000",Front Wheel Drive,,,5
+100,Smart,#1 Brabus,62,152,3.9 sec,180 km/h,325 km,191 Wh/km,500 km/h,"€48,990","€48,895","£43,450",All Wheel Drive,Towbar possible,1600,5
+101,Lotus,Eletre,109,202,4.5 sec,250 km/h,495 km,220 Wh/km,1040 km/h,"€96,990","€98,690","£90,805",All Wheel Drive,Towbar possible,2250,5
+102,Renault,Zoe ZE50 R135,52,117,9.5 sec,140 km/h,310 km,168 Wh/km,230 km/h,"€37,840","€36,195","£29,995",Front Wheel Drive,,,5
+103,Maxus,MIFA 9,84,197,9.2 sec,180 km/h,365 km,230 Wh/km,420 km/h,"€68,990",N/A,"£65,290",Front Wheel Drive,Towbar possible,1000,7
+104,Lexus,RZ 450e,64,218,5.6 sec,160 km/h,320 km,200 Wh/km,480 km/h,"€68,000","€67,495","£64,500",All Wheel Drive,Towbar possible,750,5
+105,Mercedes-benz,EQE 350+,90.6,155,6.4 sec,210 km/h,530 km,171 Wh/km,790 km/h,N/A,"€82,028",N/A,Rear Wheel Drive,Towbar possible,750,5
+106,Bmw,i5 M60 xDrive Sedan,81.2,254,3.8 sec,230 km/h,420 km,193 Wh/km,670 km/h,"€99,500","€108,427","£97,745",All Wheel Drive,Towbar possible,2000,5
+107,Cupra,Tavascan VZ,77,141,5.6 sec,180 km/h,430 km,179 Wh/km,640 km/h,"* €58,000","* €60,000","* £55,000",All Wheel Drive,,,5
+108,Xpeng,G9 RWD Standard Range,75.8,148,6.4 sec,200 km/h,395 km,192 Wh/km,830 km/h,"€57,600","€59,188",N/A,Rear Wheel Drive,Towbar possible,1500,5
+109,Subaru,Solterra AWD,64,179,6.9 sec,160 km/h,320 km,200 Wh/km,480 km/h,"€57,490","€56,395","£49,995",All Wheel Drive,Towbar possible,750,5
+110,Xpeng,G6 RWD Long Range,87.5,102,6.7 sec,200 km/h,490 km,179 Wh/km,980 km/h,"* €50,000","* €50,000",N/A,Rear Wheel Drive,Towbar possible,,5
+111,Mini,Cooper SE,49.8,126,6.7 sec,170 km/h,305 km,163 Wh/km,440 km/h,"€36,900","€38,990","£34,500",Front Wheel Drive,,,4
+112,Hyundai,IONIQ 6 Standard Range 2WD,54,123,8.8 sec,185 km/h,365 km,148 Wh/km,900 km/h,"€43,900","€45,895",N/A,Rear Wheel Drive,Towbar possible,750,5
+113,Maserati,GranTurismo Folgore,83,480,2.7 sec,325 km/h,420 km,198 Wh/km,920 km/h,"€198,212","€199,250","£179,950",All Wheel Drive,,,4
+114,Volvo,EX40 Single Motor ER,79,135,7.3 sec,180 km/h,400 km,198 Wh/km,600 km/h,"€55,490","€51,995","£47,705",Rear Wheel Drive,Towbar possible,1500,5
+115,Toyota,bZ4X AWD,64,181,6.9 sec,160 km/h,315 km,203 Wh/km,470 km/h,"€57,390","€52,995","£52,510",All Wheel Drive,Towbar possible,750,5
+116,Bmw,iX2 xDrive30,64.7,160,5.6 sec,180 km/h,380 km,170 Wh/km,510 km/h,"€56,500","€59,350","£57,445",All Wheel Drive,Towbar possible,1200,5
+117,Ford,Explorer Extended Range AWD,79,131,5.3 sec,180 km/h,430 km,184 Wh/km,690 km/h,"€53,500","€53,950","£53,975",All Wheel Drive,Towbar possible,1200,5
+118,Skoda,Enyaq Coupe 85,77,109,6.7 sec,180 km/h,480 km,160 Wh/km,720 km/h,"€51,150","€52,990","£46,440",Rear Wheel Drive,Towbar possible,1000,5
+119,Mg,ZS EV Standard Range,49,132,8.6 sec,175 km/h,265 km,185 Wh/km,250 km/h,"€33,990","€35,885","£30,495",Front Wheel Drive,Towbar possible,500,5
+120,Fisker,Ocean Extreme,106.5,132,3.9 sec,205 km/h,490 km,217 Wh/km,580 km/h,"€63,590","€63,590","£57,900",All Wheel Drive,Towbar possible,1820,5
+121,Volkswagen,ID.7 Tourer Pro,77,130,6.6 sec,180 km/h,460 km,167 Wh/km,710 km/h,"€54,795","€58,990","* £57,000",Rear Wheel Drive,Towbar possible,1000,5
+122,Renault,Twingo Electric,21.3,207,12.6 sec,135 km/h,135 km,158 Wh/km,-,"€28,000",N/A,N/A,Rear Wheel Drive,,,4
+123,Polestar,4 Long Range Single Motor,94,133,7.4 sec,180 km/h,495 km,190 Wh/km,670 km/h,"€63,200","€64,800","£59,990",Rear Wheel Drive,Towbar possible,1500,5
+124,Polestar,4 Long Range Dual Motor,94,158,3.8 sec,200 km/h,465 km,202 Wh/km,630 km/h,"€71,200","€72,800","£66,990",All Wheel Drive,Towbar possible,2000,5
+125,Fisker,Ocean Ultra,106.5,115,4.2 sec,200 km/h,510 km,209 Wh/km,610 km/h,"€58,900","€58,990","£50,900",All Wheel Drive,Towbar possible,1820,5
+126,Tesla,Model X Plaid,95,271,2.7 sec,262 km/h,455 km,209 Wh/km,630 km/h,"€115,970","€115,993","* £120,000",All Wheel Drive,Towbar possible,2250,7
+127,Mg,MG4 Electric XPOWER,61.7,137,3.8 sec,200 km/h,320 km,193 Wh/km,560 km/h,"€46,990","€42,285","£36,495",All Wheel Drive,Towbar possible,500,5
+128,Alfa romeo,Junior Elettrica 54 kWh,50.8,127,9.0 sec,150 km/h,315 km,161 Wh/km,500 km/h,"€39,500","€39,000","* £36,000",Front Wheel Drive,,,5
+129,Opel,Mokka-e 50 kWh,46.3,154,9.2 sec,150 km/h,260 km,178 Wh/km,420 km/h,"€40,650","€36,999","£36,610",Front Wheel Drive,,,5
+130,Kia,EV9 99.8 kWh RWD,96,159,9.4 sec,185 km/h,450 km,213 Wh/km,850 km/h,"€72,490","€67,995","£64,995",Rear Wheel Drive,Towbar possible,900,7
+131,Peugeot,e-208 50 kWh,46.3,127,9.0 sec,150 km/h,290 km,160 Wh/km,460 km/h,"€37,475","€35,870","£32,650",Front Wheel Drive,,,5
+132,Mercedes-benz,EQE 300,89,137,7.3 sec,210 km/h,525 km,170 Wh/km,660 km/h,"€67,187","€69,928","£68,810",Rear Wheel Drive,Towbar possible,750,5
+133,Polestar,2 Standard Range Single Motor,67,118,6.4 sec,205 km/h,405 km,165 Wh/km,480 km/h,"€46,275","€44,950","£44,950",Rear Wheel Drive,Towbar possible,1500,5
+134,Volkswagen,ID.7 Tourer GTX,86,142,6.0 sec,180 km/h,480 km,179 Wh/km,770 km/h,"* €65,000","* €65,000","* £65,000",All Wheel Drive,Towbar possible,,5
+135,Polestar,2 Long Range Dual Motor,79,125,4.5 sec,205 km/h,450 km,176 Wh/km,670 km/h,"€52,275","€55,200","£52,950",All Wheel Drive,Towbar possible,1500,5
+136,Maserati,GranCabrio Folgore,83,530,2.8 sec,290 km/h,395 km,210 Wh/km,870 km/h,"€206,713","€208,250","£185,610",All Wheel Drive,,,4
+137,Hyundai,Kona Electric 48 kWh,48.4,138,8.8 sec,160 km/h,295 km,164 Wh/km,280 km/h,"€41,990","€39,995","£34,995",Front Wheel Drive,Towbar possible,300,5
+138,Smart,#3 Brabus,62,153,3.7 sec,180 km/h,335 km,185 Wh/km,520 km/h,"€50,990","€50,895","* £45,000",All Wheel Drive,Towbar possible,1600,5
+139,Porsche,Macan Turbo Electric,95,239,3.3 sec,260 km/h,480 km,198 Wh/km,960 km/h,"€114,600","€121,000","£95,000",All Wheel Drive,Towbar possible,2000,5
+140,Volkswagen,ID.4 Pro 4MOTION,77,119,6.6 sec,180 km/h,425 km,181 Wh/km,630 km/h,"€49,020","€51,990",N/A,All Wheel Drive,Towbar possible,1200,5
+141,Lancia,Ypsilon,48.1,131,8.5 sec,150 km/h,305 km,158 Wh/km,470 km/h,"* €40,000","* €40,000",N/A,Front Wheel Drive,,,5
+142,Volkswagen,ID.7 Tourer Pro S,86,126,7.0 sec,180 km/h,505 km,170 Wh/km,810 km/h,"* €61,000","* €61,000","* £60,000",Rear Wheel Drive,Towbar possible,,5
+143,Fiat,600e,50.8,121,9.0 sec,150 km/h,305 km,167 Wh/km,490 km/h,"€36,490","€35,990","£32,995",Front Wheel Drive,,,5
+144,Nissan,Leaf e+,59,121,6.9 sec,157 km/h,340 km,174 Wh/km,240 km/h,"€41,100",N/A,N/A,Front Wheel Drive,,,5
+145,Peugeot,e-5008 73 kWh,73,143,9.0 sec,170 km/h,370 km,197 Wh/km,430 km/h,"* €52,000","* €52,000","* £48,000",Front Wheel Drive,Towbar possible,1000,7
+146,Mercedes-benz,EQB 350 4MATIC,66.5,187,6.2 sec,160 km/h,345 km,193 Wh/km,500 km/h,"€58,197","€69,728","£56,810",All Wheel Drive,Towbar possible,1700,7
+147,Porsche,Taycan Plus,97,193,4.8 sec,230 km/h,560 km,173 Wh/km,1230 km/h,"€107,224","€113,044","£90,954",Rear Wheel Drive,,,5
+148,Volkswagen,ID.5 Pro,77,118,6.7 sec,180 km/h,455 km,169 Wh/km,680 km/h,"€48,970","€53,990","£50,940",Rear Wheel Drive,Towbar possible,1000,5
+149,Mercedes-benz,EQA 250+,70.5,129,8.6 sec,160 km/h,420 km,168 Wh/km,500 km/h,"€52,205","€52,546","£49,750",Front Wheel Drive,Towbar possible,1500,5
+150,Ford,Mustang Mach-E ER AWD,91,156,5.8 sec,180 km/h,445 km,204 Wh/km,390 km/h,"€65,900","€66,940","£65,405",All Wheel Drive,Towbar possible,1500,5
+151,Audi,Q8 e-tron Sportback 55 quattro,106,168,5.6 sec,200 km/h,525 km,202 Wh/km,660 km/h,"€87,550","€85,385","£80,300",All Wheel Drive,Towbar possible,1800,5
+152,Xpeng,G9 RWD Long Range,93.1,130,6.4 sec,200 km/h,480 km,194 Wh/km,1120 km/h,"€61,600","€63,188",N/A,Rear Wheel Drive,Towbar possible,1500,5
+153,Renault,5 E-Tech 40kWh 95hp,40,97,10.0 sec,140 km/h,260 km,154 Wh/km,-,"* €25,000","* €25,000","* £22,000",Front Wheel Drive,Towbar possible,500,5
+154,Gwm,ORA 3 48 kWh,45.4,146,8.3 sec,160 km/h,260 km,175 Wh/km,240 km/h,"€38,990",N/A,"£31,995",Front Wheel Drive,,,5
+155,Nio,ET7 100 kWh,90,183,3.8 sec,200 km/h,505 km,178 Wh/km,530 km/h,"€90,900","€93,900",N/A,All Wheel Drive,Towbar possible,2000,5
+156,Kia,EV6 Standard Range 2WD,54,148,8.5 sec,185 km/h,305 km,177 Wh/km,750 km/h,"€46,990","€43,495",N/A,Rear Wheel Drive,Towbar possible,750,5
+157,Skoda,Enyaq 60,58,133,8.7 sec,160 km/h,335 km,173 Wh/km,450 km/h,"€44,200","€44,990","£38,970",Rear Wheel Drive,Towbar possible,1000,5
+158,Zeekr,X Privilege AWD,64,143,3.8 sec,180 km/h,345 km,186 Wh/km,580 km/h,"€50,470","€48,490",N/A,All Wheel Drive,Towbar possible,1600,5
+159,Peugeot,e-2008 54 kWh,50.8,136,9.1 sec,150 km/h,300 km,169 Wh/km,480 km/h,"€39,450","€41,270","£36,350",Front Wheel Drive,,,5
+160,Volkswagen,ID.3 Pro S - 4 Seats,77,106,7.9 sec,160 km/h,455 km,169 Wh/km,680 km/h,"€47,595","€47,990","£42,870",Rear Wheel Drive,Towbar possible,0,4
+161,Nio,EL6 100 kWh,90,174,4.5 sec,200 km/h,435 km,207 Wh/km,630 km/h,"€74,500","€76,900",N/A,All Wheel Drive,Towbar possible,1200,5
+162,Voyah,Free 106 kWh,100,154,4.4 sec,200 km/h,480 km,208 Wh/km,360 km/h,N/A,"€74,150",N/A,All Wheel Drive,Towbar possible,2000,5
+163,Volkswagen,ID. Buzz GTX,79,229,6.5 sec,160 km/h,335 km,236 Wh/km,520 km/h,"* €75,000","* €75,000","* £70,000",All Wheel Drive,Towbar possible,1800,5
+164,Dacia,Spring Electric 65 Extreme,25,153,13.7 sec,125 km/h,160 km,156 Wh/km,170 km/h,"€24,550",N/A,N/A,Front Wheel Drive,,,4
+165,Mercedes-benz,EQS 580 4MATIC,108.4,267,4.3 sec,210 km/h,590 km,184 Wh/km,880 km/h,"€141,705","€173,825",N/A,All Wheel Drive,Towbar possible,750,5
+166,Lucid,Air Touring,92,173,3.2 sec,250 km/h,580 km,159 Wh/km,970 km/h,"€99,000","€102,000",N/A,All Wheel Drive,,,5
+167,Bmw,iX M60,105.2,286,3.8 sec,250 km/h,485 km,217 Wh/km,650 km/h,"€136,100","€138,383","£122,775",All Wheel Drive,Towbar possible,2500,5
+168,Porsche,Taycan,82.3,212,4.8 sec,230 km/h,485 km,170 Wh/km,1070 km/h,"€101,500","€107,000","£86,500",Rear Wheel Drive,,,5
+169,Porsche,Taycan Turbo GT,97,494,2.3 sec,290 km/h,475 km,204 Wh/km,1050 km/h,"€240,000","€249,900","£186,300",All Wheel Drive,,,5
+170,Bmw,iX2 eDrive20,64.7,134,8.6 sec,170 km/h,395 km,164 Wh/km,530 km/h,"€49,400","€49,976","£51,615",Front Wheel Drive,Towbar possible,750,5
+171,Opel,Corsa Electric 50 kWh,46.3,121,8.7 sec,150 km/h,295 km,157 Wh/km,470 km/h,"€34,650","€34,999","£32,445",Front Wheel Drive,,,5
+172,Peugeot,e-308,50.8,150,9.8 sec,170 km/h,300 km,169 Wh/km,450 km/h,"€44,765","€42,070","£42,025",Front Wheel Drive,,,5
+173,Volkswagen,ID.4 Pure,52,150,9.0 sec,160 km/h,285 km,182 Wh/km,360 km/h,"€40,335","€44,990",N/A,Rear Wheel Drive,Towbar possible,1000,5
+174,Peugeot,e-5008 98 kWh Long Range,98,125,9.7 sec,170 km/h,490 km,200 Wh/km,640 km/h,"* €60,000","* €60,000","* £55,000",Front Wheel Drive,Towbar possible,,7
+175,Mg,Marvel R,70,125,7.9 sec,200 km/h,365 km,192 Wh/km,400 km/h,"€46,990","€44,485",N/A,Rear Wheel Drive,Towbar possible,750,5
+176,Jaguar,I-Pace EV400,84.7,235,4.8 sec,200 km/h,380 km,223 Wh/km,360 km/h,"€92,400","€95,450","£69,995",All Wheel Drive,Towbar possible,750,5
+177,Audi,Q8 e-tron 50 quattro,89,175,6.0 sec,200 km/h,425 km,209 Wh/km,660 km/h,"€74,400","€71,385","£67,800",All Wheel Drive,Towbar possible,1800,5
+178,Volkswagen,ID.4 GTX,77,140,5.4 sec,180 km/h,420 km,183 Wh/km,630 km/h,"€53,255","€60,990","£53,865",All Wheel Drive,Towbar possible,1200,5
+179,Dacia,Spring Electric 65,25,124,13.7 sec,125 km/h,160 km,156 Wh/km,170 km/h,"* €20,000","€20,950","£15,995",Front Wheel Drive,,,4
+180,Xpeng,G6 RWD Standard Range,66,120,6.9 sec,200 km/h,375 km,176 Wh/km,750 km/h,"* €45,000","* €45,000",N/A,Rear Wheel Drive,Towbar possible,,5
+181,Nissan,Ariya 63kWh,63,137,7.5 sec,160 km/h,335 km,188 Wh/km,450 km/h,"€47,490","€44,990","£39,645",Front Wheel Drive,Towbar possible,750,5
+182,Volvo,EC40 Single Motor ER,79,137,7.3 sec,180 km/h,420 km,188 Wh/km,630 km/h,"€57,190","€53,495","£54,305",Rear Wheel Drive,Towbar possible,1500,5
+183,Cupra,Born VZ,79,112,5.7 sec,160 km/h,460 km,172 Wh/km,690 km/h,"* €50,000","* €50,000","* £47,000",Rear Wheel Drive,,,4
+184,Volkswagen,ID.3 GTX,79,112,6.0 sec,180 km/h,460 km,172 Wh/km,690 km/h,"* €50,000","* €50,000","* £47,000",Rear Wheel Drive,,,4
+185,Audi,Q4 e-tron 55 quattro,77,160,5.4 sec,180 km/h,395 km,195 Wh/km,590 km/h,"€59,000","€64,615","£57,125",All Wheel Drive,Towbar possible,1200,5
+186,Peugeot,e-208 51 kWh,48.1,123,8.2 sec,150 km/h,310 km,155 Wh/km,480 km/h,"€40,325","€37,170","£32,400",Front Wheel Drive,,,5
+187,Vinfast,VF 9 Extended Range,123,174,6.5 sec,200 km/h,520 km,237 Wh/km,520 km/h,"€89,790","€91,300",N/A,All Wheel Drive,,,7
+188,Mercedes-benz,EQB 300 4MATIC,66.5,169,8.0 sec,160 km/h,345 km,193 Wh/km,500 km/h,"€55,519","€61,379",N/A,All Wheel Drive,Towbar possible,1700,7
+189,Skoda,Enyaq 85x,77,122,6.6 sec,180 km/h,440 km,175 Wh/km,660 km/h,"€51,150",N/A,"£48,605",All Wheel Drive,Towbar possible,1000,5
+190,Kia,e-Soul 64 kWh,64,125,7.9 sec,167 km/h,370 km,173 Wh/km,350 km/h,"€47,450",N/A,"£39,075",Front Wheel Drive,Towbar possible,0,5
+191,Renault,Kangoo E-Tech Electric,45,179,12.6 sec,132 km/h,220 km,205 Wh/km,230 km/h,"€39,300",N/A,N/A,Front Wheel Drive,Towbar possible,1500,5
+192,Maserati,Grecale Folgore,95,313,4.1 sec,220 km/h,400 km,238 Wh/km,440 km/h,"€124,301","€124,600","£109,905",All Wheel Drive,Towbar possible,1800,5
+193,Polestar,3 Long Range Dual motor,107,177,5.0 sec,210 km/h,490 km,218 Wh/km,640 km/h,"€85,590","€86,950","£75,900",All Wheel Drive,Towbar possible,2200,5
+194,Lotus,Eletre R,109,326,2.9 sec,260 km/h,455 km,240 Wh/km,950 km/h,"€151,990","€154,090","£121,305",All Wheel Drive,Towbar possible,2250,5
+195,Nio,EL7 100 kWh,90,224,3.9 sec,200 km/h,430 km,209 Wh/km,450 km/h,"€94,900","€97,900",N/A,All Wheel Drive,Towbar possible,2000,5
+196,Citroen,e-C4 X,46.3,132,9.7 sec,150 km/h,285 km,162 Wh/km,460 km/h,"€37,540","€38,680","£31,995",Front Wheel Drive,,,5
+197,Volvo,EX40 Single Motor,67,144,7.3 sec,180 km/h,345 km,194 Wh/km,530 km/h,"€49,990","€45,995","£45,955",Rear Wheel Drive,Towbar possible,1500,5
+198,Xpeng,P7 Wing Edition,82.7,155,4.1 sec,200 km/h,455 km,182 Wh/km,730 km/h,"€69,600","€71,188",N/A,All Wheel Drive,,,5
+199,Skoda,Enyaq Coupe RS,77,139,5.5 sec,180 km/h,455 km,169 Wh/km,680 km/h,"€63,300","€63,690","£54,820",All Wheel Drive,Towbar possible,1200,5
+200,Ford,Mustang Mach-E SR RWD,72.6,141,7.3 sec,180 km/h,380 km,191 Wh/km,460 km/h,"€55,800","€46,300","£50,830",Rear Wheel Drive,Towbar possible,750,5
+201,Audi,Q4 Sportback e-tron 45,77,132,6.7 sec,180 km/h,435 km,177 Wh/km,650 km/h,"€54,950","€56,915","£52,245",Rear Wheel Drive,Towbar possible,1000,5
+202,Volvo,EX40 Twin Motor,79,164,4.8 sec,180 km/h,385 km,205 Wh/km,570 km/h,"€59,590",N/A,"£57,805",All Wheel Drive,Towbar possible,1800,5
+203,Ssangyong,Korando e-Motion,56,139,8.5 sec,156 km/h,290 km,193 Wh/km,330 km/h,"€40,490","€39,990",N/A,Front Wheel Drive,Towbar possible,1500,5
+204,Smart,#1 Pro,47,148,6.7 sec,180 km/h,250 km,188 Wh/km,320 km/h,"€37,490",N/A,"£31,950",Rear Wheel Drive,,,5
+205,Audi,SQ6 e-tron,94.9,225,4.3 sec,230 km/h,445 km,213 Wh/km,890 km/h,"€93,800","* €100,000","£92,950",All Wheel Drive,Towbar possible,2400,5
+206,Seres,3,51,146,8.9 sec,155 km/h,260 km,196 Wh/km,240 km/h,N/A,"€37,995",N/A,Front Wheel Drive,,,5
+207,Volvo,EX90 Twin Motor,107,209,5.9 sec,180 km/h,465 km,230 Wh/km,610 km/h,"€91,700","€88,995","£96,255",All Wheel Drive,Towbar possible,2200,7
+208,Bmw,i7 eDrive50,101.7,227,5.5 sec,205 km/h,520 km,196 Wh/km,780 km/h,"€115,700","€122,463","£100,205",Rear Wheel Drive,,,5
+209,Mini,Cooper E,36.8,150,7.3 sec,160 km/h,230 km,160 Wh/km,350 km/h,"€32,900","€35,990","£30,000",Front Wheel Drive,,,4
+210,Audi,Q4 e-tron 45 quattro,77,145,6.6 sec,180 km/h,395 km,195 Wh/km,590 km/h,"€54,950","€56,865","£52,175",All Wheel Drive,Towbar possible,1200,5
+211,Opel,Corsa Electric 51 kWh,48.1,124,8.1 sec,150 km/h,315 km,153 Wh/km,490 km/h,"€38,045","€37,999","£35,475",Front Wheel Drive,,,5
+212,Bmw,i5 eDrive40 Touring,81.2,170,6.1 sec,193 km/h,455 km,178 Wh/km,730 km/h,"€72,200","€79,622","£69,945",Rear Wheel Drive,Towbar possible,1500,5
+213,Mercedes-benz,EQS 450 4MATIC,108.4,189,5.6 sec,210 km/h,610 km,178 Wh/km,910 km/h,"€113,359","€116,955",N/A,All Wheel Drive,Towbar possible,750,5
+214,Hongqi,E-HS9 84 kWh,76.5,219,6.5 sec,200 km/h,320 km,239 Wh/km,440 km/h,N/A,"€69,995",N/A,All Wheel Drive,Towbar possible,1500,5
+215,Mg,Marvel R Performance,70,148,4.9 sec,200 km/h,350 km,200 Wh/km,380 km/h,"€50,990","€52,485",N/A,All Wheel Drive,Towbar possible,750,5
+216,Renault,Scenic E-Tech EV60 170hp,60,123,8.6 sec,150 km/h,340 km,176 Wh/km,400 km/h,"€41,400","€42,470",N/A,Front Wheel Drive,Towbar possible,1100,5
+217,Renault,Megane E-Tech EV60 130hp,60,114,10.5 sec,150 km/h,380 km,158 Wh/km,530 km/h,"€47,000","€39,370",N/A,Front Wheel Drive,Towbar possible,500,5
+218,Smart,#3 Premium,62,130,5.8 sec,180 km/h,355 km,175 Wh/km,550 km/h,"€46,490","€46,055","* £40,000",Rear Wheel Drive,Towbar possible,1600,5
+219,Fiat,500e Hatchback 24 kWh,21.3,228,9.0 sec,135 km/h,135 km,158 Wh/km,230 km/h,"€30,990","€28,990","£28,195",Front Wheel Drive,,,4
+220,Renault,Megane E-Tech EV40 130hp,40,151,10.0 sec,150 km/h,260 km,154 Wh/km,370 km/h,"€42,000","€36,370",N/A,Front Wheel Drive,Towbar possible,500,5
+221,Genesis,GV60 Premium,74,159,7.8 sec,185 km/h,390 km,190 Wh/km,1020 km/h,N/A,N/A,"£53,905",Rear Wheel Drive,Towbar possible,1600,5
+222,Lotus,Emeya,100,206,4.2 sec,250 km/h,530 km,189 Wh/km,1230 km/h,"€106,400","€109,685","£96,255",All Wheel Drive,,,5
+223,Opel,Astra Sports Tourer Electric,50.8,141,9.3 sec,170 km/h,310 km,164 Wh/km,500 km/h,"€43,490","€41,499","£39,995",Front Wheel Drive,Towbar possible,0,5
+224,Xpeng,P7 RWD Long Range,82.7,102,6.7 sec,200 km/h,495 km,167 Wh/km,800 km/h,"€49,600","€51,188",N/A,Rear Wheel Drive,,,5
+225,Mercedes-benz,EQS SUV 450+,118,219,6.8 sec,210 km/h,540 km,219 Wh/km,680 km/h,"€110,801","€125,425",N/A,Rear Wheel Drive,Towbar possible,750,7
+226,Renault,5 E-Tech 40kWh 120hp,40,107,9.0 sec,140 km/h,260 km,154 Wh/km,340 km/h,"* €28,000","* €28,000","* £24,000",Front Wheel Drive,Towbar possible,500,5
+227,Ford,Mustang Mach-E GT,91,187,3.7 sec,200 km/h,425 km,214 Wh/km,380 km/h,"€77,300","€75,200","£74,540",All Wheel Drive,Towbar possible,750,5
+228,Bmw,i7 M70 xDrive,101.7,381,3.7 sec,250 km/h,490 km,208 Wh/km,730 km/h,"€181,800","€189,877","£163,315",All Wheel Drive,,,5
+229,Peugeot,e-308 SW,50.8,151,10.0 sec,150 km/h,300 km,169 Wh/km,450 km/h,"€45,765","€42,570","£41,250",Front Wheel Drive,,,5
+230,Xpeng,G6 AWD Performance,87.5,125,4.1 sec,200 km/h,480 km,182 Wh/km,960 km/h,"* €60,000","* €60,000",N/A,All Wheel Drive,Towbar possible,,5
+231,Mercedes-benz,EQS SUV Maybach 680,118,440,4.4 sec,210 km/h,490 km,241 Wh/km,620 km/h,"€200,634","€216,780","* £200,000",All Wheel Drive,Towbar possible,1800,4
+232,Peugeot,e-2008 50 kWh,46.3,144,9.9 sec,150 km/h,270 km,171 Wh/km,430 km/h,"€38,600","€39,270",N/A,Front Wheel Drive,,,5
+233,Nissan,Townstar EV Passenger,45,178,12.6 sec,132 km/h,225 km,200 Wh/km,230 km/h,"€39,990",N/A,N/A,Front Wheel Drive,Towbar possible,1500,5
+234,Audi,SQ8 e-tron,106,225,4.5 sec,210 km/h,455 km,233 Wh/km,570 km/h,"€95,800","€99,135","£97,500",All Wheel Drive,Towbar possible,1800,5
+235,Ford,Explorer Standard Range RWD,52,155,9.0 sec,160 km/h,280 km,186 Wh/km,350 km/h,"€42,500","€41,450","£39,875",Rear Wheel Drive,Towbar possible,1000,5
+236,Porsche,Taycan Turbo GT Weissach,97,494,2.2 sec,305 km/h,475 km,204 Wh/km,1050 km/h,"€240,000","€249,900","£186,300",All Wheel Drive,,,2
+237,Gwm,ORA 3 63 kWh,59.3,125,8.2 sec,160 km/h,340 km,174 Wh/km,290 km/h,"€44,490",N/A,"£34,995",Front Wheel Drive,,,5
+238,Mg,MG5 Electric Standard Range,46,135,7.7 sec,185 km/h,265 km,174 Wh/km,320 km/h,"€35,490","€35,885",N/A,Front Wheel Drive,Towbar possible,500,5
+239,Mercedes-benz,EQS SUV 580 4MATIC,118,303,4.7 sec,210 km/h,530 km,223 Wh/km,670 km/h,"€147,923","€173,825","£139,470",All Wheel Drive,Towbar possible,1800,7
+240,Lucid,Air Pure RWD,92,153,4.7 sec,200 km/h,565 km,163 Wh/km,940 km/h,"€85,000","€88,000",N/A,All Wheel Drive,,,5
+241,Volvo,EC40 Single Motor,67,152,7.3 sec,180 km/h,360 km,186 Wh/km,560 km/h,"€52,690","€50,495","£52,555",Rear Wheel Drive,Towbar possible,1500,5
+242,Porsche,Taycan 4S Plus,97,227,3.7 sec,250 km/h,550 km,176 Wh/km,1210 km/h,"€126,422","€132,631","£100,196",All Wheel Drive,,,5
+243,Skoda,Enyaq Coupe 85x,77,118,6.6 sec,180 km/h,470 km,164 Wh/km,700 km/h,"€53,400",N/A,"£50,305",All Wheel Drive,Towbar possible,1200,5
+244,Smart,#3 Pro,47,147,5.9 sec,180 km/h,265 km,177 Wh/km,340 km/h,"€38,490","€38,395","* £35,000",Rear Wheel Drive,,,5
+245,Mini,Countryman SE ALL4,64.7,138,5.6 sec,180 km/h,370 km,175 Wh/km,500 km/h,"€49,500","€49,490","£47,180",All Wheel Drive,Towbar possible,1200,5
+246,Ds,3 E-Tense,50.8,137,9.0 sec,150 km/h,300 km,169 Wh/km,480 km/h,"€40,540","€39,640","£37,200",Front Wheel Drive,,,5
+247,Volvo,EX90 Twin Motor Performance,107,230,4.9 sec,180 km/h,450 km,238 Wh/km,590 km/h,"€96,800","€98,495","£100,555",All Wheel Drive,Towbar possible,2200,7
+248,Lexus,UX 300e,64,161,7.5 sec,160 km/h,340 km,188 Wh/km,170 km/h,N/A,N/A,"£47,495",Front Wheel Drive,,,5
+249,Mercedes-benz,EQE SUV 350 4MATIC,90.6,217,6.6 sec,210 km/h,435 km,208 Wh/km,550 km/h,"€89,548","€99,089",N/A,All Wheel Drive,Towbar possible,1800,5
+250,Polestar,2 Long Range Performance,79,139,4.2 sec,205 km/h,450 km,176 Wh/km,670 km/h,"€58,775","€61,700","£57,950",All Wheel Drive,Towbar possible,1500,5
+251,Xpeng,G9 AWD Performance,93.1,154,3.9 sec,200 km/h,465 km,200 Wh/km,1080 km/h,"€69,600","€73,188",N/A,All Wheel Drive,Towbar possible,1500,5
+252,Bmw,i5 xDrive40 Sedan,81.2,171,5.4 sec,215 km/h,455 km,178 Wh/km,730 km/h,"€75,600","€80,227",N/A,All Wheel Drive,Towbar possible,2000,5
+253,Nissan,Ariya e-4ORCE 87kWh - 225 kW,87,144,5.7 sec,200 km/h,405 km,215 Wh/km,480 km/h,"€61,990","€54,990","£50,845",All Wheel Drive,Towbar possible,1500,5
+254,Cupra,Tavascan Endurance,77,122,6.8 sec,180 km/h,450 km,171 Wh/km,670 km/h,"* €52,000","* €55,000","* £50,000",Rear Wheel Drive,,,5
+255,Nio,ET5 75 kWh,70.5,155,4.0 sec,200 km/h,395 km,178 Wh/km,590 km/h,"€59,500","€62,700",N/A,All Wheel Drive,Towbar possible,1400,5
+256,Mercedes-benz,EQE 350 4MATIC,89,157,6.3 sec,210 km/h,510 km,175 Wh/km,640 km/h,"€74,149","€86,263",N/A,All Wheel Drive,Towbar possible,750,5
+257,Aiways,U5,60,131,7.5 sec,150 km/h,315 km,190 Wh/km,380 km/h,"€39,563","€42,950",N/A,Front Wheel Drive,,,5
+258,Citroen,e-C4 X 54 kWh,50.8,125,9.3 sec,150 km/h,330 km,154 Wh/km,470 km/h,"€41,540","€40,755",N/A,Front Wheel Drive,,,5
+259,Mercedes-benz,EQS AMG 53 4MATIC+,108.4,307,3.4 sec,250 km/h,535 km,203 Wh/km,800 km/h,"€155,009","€173,825",N/A,All Wheel Drive,Towbar possible,750,5
+260,Fiat,500e 3+1 42 kWh,37.3,154,9.0 sec,150 km/h,235 km,159 Wh/km,390 km/h,"€36,990","€35,490",N/A,Front Wheel Drive,,,4
+261,Abarth,500e Hatchback,37.8,172,7.0 sec,155 km/h,225 km,168 Wh/km,370 km/h,"€37,990","€38,490","£34,195",Front Wheel Drive,,,4
+262,Opel,Mokka-e 54 kWh,50.8,144,9.0 sec,150 km/h,290 km,175 Wh/km,460 km/h,"€44,720","€37,999","£37,260",Front Wheel Drive,,,5
+263,Nio,ET5 Touring 100 kWh,90,146,4.0 sec,200 km/h,485 km,186 Wh/km,700 km/h,"€68,500","€72,900",N/A,All Wheel Drive,Towbar possible,1400,5
+264,Fisker,Ocean Sport,71,124,7.4 sec,160 km/h,350 km,203 Wh/km,470 km/h,"€43,900","€43,990","£36,900",Front Wheel Drive,Towbar possible,1090,5
+265,Audi,Q4 Sportback e-tron 55 quattro,77,157,5.4 sec,180 km/h,415 km,186 Wh/km,620 km/h,"€61,000","€66,665","£58,625",All Wheel Drive,Towbar possible,1200,5
+266,Mercedes-benz,EQS SUV 450 4MATIC,118,247,6.1 sec,210 km/h,530 km,223 Wh/km,670 km/h,"€114,609","€129,660","£129,470",All Wheel Drive,Towbar possible,1800,7
+267,Zeekr,X Long Range RWD,64,126,5.6 sec,180 km/h,355 km,180 Wh/km,590 km/h,"€45,970","€43,490",N/A,Rear Wheel Drive,Towbar possible,1600,5
+268,Cupra,Born 170 kW - 58 kWh,58,121,6.6 sec,160 km/h,345 km,168 Wh/km,460 km/h,"€40,750","€38,989","£39,205",Rear Wheel Drive,,,5
+269,Citroen,e-C4 54 kWh,50.8,123,9.2 sec,150 km/h,330 km,154 Wh/km,470 km/h,"€41,540","€39,905",N/A,Front Wheel Drive,,,5
+270,Mercedes-benz,EQA 300 4MATIC,66.5,161,7.7 sec,160 km/h,350 km,190 Wh/km,500 km/h,"€53,520","€58,959",N/A,All Wheel Drive,Towbar possible,1800,5
+271,Nissan,Ariya e-4ORCE 87kWh - 290 kW,87,168,5.1 sec,200 km/h,405 km,215 Wh/km,480 km/h,"€71,490","€64,990",N/A,All Wheel Drive,Towbar possible,1500,5
+272,Genesis,G80 Electrified Luxury,82.5,170,4.9 sec,225 km/h,440 km,188 Wh/km,880 km/h,"€69,200",N/A,"£69,805",All Wheel Drive,,,5
+273,Mercedes-benz,EQE 350,89,157,6.4 sec,210 km/h,515 km,173 Wh/km,650 km/h,"€70,995","€83,238","£77,345",Rear Wheel Drive,Towbar possible,750,5
+274,Volkswagen,ID.5 GTX,77,142,5.5 sec,180 km/h,430 km,179 Wh/km,640 km/h,"€56,455","€62,990","£55,365",All Wheel Drive,Towbar possible,1200,5
+275,Zeekr,001 Privilege AWD,94,139,3.8 sec,200 km/h,495 km,190 Wh/km,670 km/h,"€68,970","€68,490",N/A,All Wheel Drive,Towbar possible,2000,5
+276,Volkswagen,ID.3 GTX Performance,79,118,5.6 sec,200 km/h,460 km,172 Wh/km,690 km/h,"* €53,000","* €53,000","* £50,000",Rear Wheel Drive,,,4
+277,Lotus,Eletre S,109,255,4.5 sec,250 km/h,480 km,227 Wh/km,1000 km/h,"€121,990","€124,090","£105,805",All Wheel Drive,Towbar possible,2250,5
+278,Volvo,EC40 Twin Motor,79,160,4.8 sec,180 km/h,400 km,198 Wh/km,600 km/h,"€61,290",N/A,"£57,805",All Wheel Drive,Towbar possible,1800,5
+279,Peugeot,e-3008 73 kWh Dual Motor,73,136,6.4 sec,180 km/h,380 km,192 Wh/km,440 km/h,"* €50,000","* €50,000","* £48,000",All Wheel Drive,Towbar possible,1350,5
+280,Hongqi,E-HS9 120 kWh,112,224,4.9 sec,200 km/h,460 km,243 Wh/km,420 km/h,N/A,"€102,995",N/A,All Wheel Drive,Towbar possible,1500,5
+281,Genesis,GV70 Electrified Sport,74,203,4.2 sec,235 km/h,350 km,211 Wh/km,860 km/h,"€67,300",N/A,"£65,105",All Wheel Drive,Towbar possible,1800,5
+282,Mercedes-benz,EQE SUV 350+,96,188,6.9 sec,210 km/h,475 km,202 Wh/km,660 km/h,"€86,811","€91,950",N/A,Rear Wheel Drive,Towbar possible,750,5
+283,Mercedes-benz,EQE AMG 43 4MATIC,90.6,240,4.2 sec,210 km/h,450 km,201 Wh/km,670 km/h,"€104,756","€111,068",N/A,All Wheel Drive,Towbar possible,750,5
+284,Ford,Mustang Mach-E SR AWD,72.6,170,6.2 sec,180 km/h,350 km,207 Wh/km,430 km/h,N/A,"€59,400",N/A,All Wheel Drive,Towbar possible,750,5
+285,Mercedes-benz,EQS 500 4MATIC,108.4,229,4.8 sec,210 km/h,590 km,184 Wh/km,880 km/h,"€125,378","€145,390",N/A,All Wheel Drive,Towbar possible,750,5
+286,Citroen,e-Berlingo XL 50 kWh,50,171,11.7 sec,132 km/h,230 km,217 Wh/km,340 km/h,"€37,940","€43,178","£31,890",Front Wheel Drive,Towbar possible,750,7
+287,Mercedes-benz,EQE SUV 500 4MATIC,96,238,4.9 sec,210 km/h,455 km,211 Wh/km,630 km/h,"€99,841","€116,755",N/A,All Wheel Drive,Towbar possible,1800,5
+288,Mercedes-benz,EQE AMG 53 4MATIC+,90.6,275,3.5 sec,220 km/h,450 km,201 Wh/km,670 km/h,"€110,706","€128,613","£114,750",All Wheel Drive,Towbar possible,750,5
+289,Bmw,i5 M60 xDrive Touring,81.2,263,3.9 sec,230 km/h,415 km,196 Wh/km,670 km/h,"€101,500","€110,477","£99,995",All Wheel Drive,Towbar possible,2000,5
+290,Mercedes-benz,EQA 350 4MATIC,66.5,178,6.0 sec,160 km/h,350 km,190 Wh/km,500 km/h,"€56,424","€67,308","£54,510",All Wheel Drive,Towbar possible,1800,5
+291,Porsche,Taycan 4S,82.3,251,3.7 sec,250 km/h,475 km,173 Wh/km,1050 km/h,"€120,900","€126,800","£95,900",All Wheel Drive,,,5
+292,Audi,Q4 Sportback e-tron 45 quattro,77,143,6.6 sec,180 km/h,415 km,186 Wh/km,620 km/h,"€56,950","€58,915","£53,675",All Wheel Drive,Towbar possible,1200,5
+293,Volkswagen,ID. Buzz LWB GTX,86,225,6.5 sec,160 km/h,355 km,242 Wh/km,570 km/h,"* €78,000","* €78,000","* £73,000",All Wheel Drive,Towbar possible,1600,7
+294,Smart,#3 Pro+,62,122,5.8 sec,180 km/h,355 km,175 Wh/km,550 km/h,"€43,490","€43,395","* £37,000",Rear Wheel Drive,Towbar possible,1600,5
+295,E.go,e.wave X,27,167,12.0 sec,135 km/h,150 km,180 Wh/km,-,"€24,990",N/A,N/A,Rear Wheel Drive,,,4
+296,Lotus,Emeya S,100,241,4.2 sec,250 km/h,530 km,189 Wh/km,1230 km/h,"€126,950","€130,585","£108,755",All Wheel Drive,,,5
+297,Polestar,3 Long Range Performance,107,198,4.7 sec,210 km/h,470 km,228 Wh/km,610 km/h,"€92,190","€93,550","£81,500",All Wheel Drive,Towbar possible,2200,5
+298,Fiat,500e Cabrio 42 kWh,37.3,166,9.0 sec,150 km/h,230 km,162 Wh/km,380 km/h,"€37,990","€37,490","£34,195",Front Wheel Drive,,,4
+299,Citroen,e-Berlingo M 50 kWh,50,162,11.7 sec,132 km/h,235 km,213 Wh/km,350 km/h,"€36,940","€41,358","£30,990",Front Wheel Drive,Towbar possible,750,5
+300,Volvo,EC40 Twin Motor Performance,79,157,4.6 sec,180 km/h,400 km,198 Wh/km,600 km/h,"€64,390","€60,995",N/A,All Wheel Drive,Towbar possible,1800,5
+301,Lotus,Emeya R,100,324,2.8 sec,256 km/h,470 km,213 Wh/km,1090 km/h,"€150,990","€155,025","£131,255",All Wheel Drive,,,5
+302,Mercedes-benz,EQE 500 4MATIC,90.6,200,4.7 sec,210 km/h,505 km,179 Wh/km,750 km/h,"€88,215","€113,488",N/A,All Wheel Drive,Towbar possible,750,5
+303,Porsche,Taycan Turbo S,97,410,2.4 sec,260 km/h,500 km,194 Wh/km,1100 km/h,"€209,900","€218,900","£161,400",All Wheel Drive,,,5
+304,Smart,#1 Premium,62,134,6.7 sec,180 km/h,335 km,185 Wh/km,520 km/h,"€44,990","€44,895","£38,950",Rear Wheel Drive,Towbar possible,1600,5
+305,Volvo,EX40 Twin Motor Performance,79,161,4.6 sec,180 km/h,380 km,208 Wh/km,570 km/h,"€62,890","€59,495",N/A,All Wheel Drive,Towbar possible,1800,5
+306,Mercedes-benz,EQT 200 Standard,45,216,12.6 sec,132 km/h,225 km,200 Wh/km,230 km/h,"€49,445","€47,753",N/A,Front Wheel Drive,Towbar possible,1500,5
+307,Mercedes-benz,EQE SUV 300,90.6,186,7.6 sec,210 km/h,450 km,201 Wh/km,570 km/h,"€83,479","€83,480",N/A,Rear Wheel Drive,Towbar possible,750,5
+308,Volvo,EX90 Single Motor,101,182,8.4 sec,180 km/h,460 km,220 Wh/km,600 km/h,"€83,700","€83,495",N/A,Rear Wheel Drive,Towbar possible,1200,7
+309,Porsche,Taycan 4 Cross Turismo,97,227,4.7 sec,220 km/h,505 km,192 Wh/km,1110 km/h,"€113,100","€119,400","£96,800",All Wheel Drive,,,5
+310,Audi,SQ8 e-tron Sportback,106,218,4.5 sec,210 km/h,480 km,221 Wh/km,610 km/h,"€98,050","€101,535","£100,000",All Wheel Drive,Towbar possible,1800,5
+311,Mercedes-benz,EQE SUV AMG 53 4MATIC+,90.6,353,3.5 sec,240 km/h,410 km,221 Wh/km,610 km/h,"€139,438","€149,788",N/A,All Wheel Drive,Towbar possible,1800,5
+312,Xpeng,P7 AWD Performance,82.7,130,4.1 sec,200 km/h,460 km,180 Wh/km,740 km/h,"€58,600","€61,188",N/A,All Wheel Drive,,,5
+313,Skoda,Enyaq RS,77,140,5.5 sec,180 km/h,435 km,177 Wh/km,650 km/h,"€61,050",N/A,"£53,120",All Wheel Drive,Towbar possible,1200,5
+314,Audi,Q8 e-tron Sportback 50 quattro,89,173,6.0 sec,200 km/h,445 km,200 Wh/km,690 km/h,"€76,650","€73,785","£70,300",All Wheel Drive,Towbar possible,1800,5
+315,Vinfast,VF 8 Eco Extended Range,87.7,126,5.9 sec,200 km/h,425 km,206 Wh/km,550 km/h,"€52,990","€53,900",N/A,All Wheel Drive,,,5
+316,Byd,DOLPHIN 44.9 kWh Boost,44.9,125,8.0 sec,160 km/h,255 km,176 Wh/km,260 km/h,"* €30,000","€32,990","* £28,500",Front Wheel Drive,,,5
+317,Gwm,ORA 3 GT,59.3,152,8.2 sec,160 km/h,325 km,182 Wh/km,280 km/h,"€49,490",N/A,N/A,Front Wheel Drive,,,5
+318,Mercedes-benz,EQS SUV 500 4MATIC,118,257,5.3 sec,210 km/h,530 km,223 Wh/km,670 km/h,"€124,545","€148,173",N/A,All Wheel Drive,Towbar possible,1800,7
+319,Mercedes-benz,eVito Tourer Long 90 kWh,90,245,12.1 sec,160 km/h,320 km,281 Wh/km,320 km/h,"€72,043","€84,773",N/A,Front Wheel Drive,,,8
+320,Mercedes-benz,EQE SUV AMG 43 4MATIC,90.6,308,4.3 sec,210 km/h,415 km,218 Wh/km,620 km/h,"€124,920","€130,791",N/A,All Wheel Drive,Towbar possible,1800,5
+321,Porsche,Taycan 4S Cross Turismo,97,247,3.8 sec,240 km/h,505 km,192 Wh/km,1110 km/h,"€126,400","€132,600","£100,400",All Wheel Drive,,,5
+322,Porsche,Taycan Turbo,97,329,2.7 sec,260 km/h,520 km,187 Wh/km,1140 km/h,"€175,600","€183,000","£134,100",All Wheel Drive,,,5
+323,Genesis,GV60 Sport,74,171,5.5 sec,200 km/h,380 km,195 Wh/km,990 km/h,"€63,200",N/A,"£58,365",All Wheel Drive,Towbar possible,1600,5
+324,Skoda,Enyaq Coupe 60,58,134,8.8 sec,160 km/h,355 km,163 Wh/km,480 km/h,"€46,850","€47,990",N/A,Rear Wheel Drive,Towbar possible,1000,5
+325,Kia,e-Soul 39.2 kWh,39.2,164,9.9 sec,157 km/h,230 km,170 Wh/km,200 km/h,N/A,N/A,"£32,875",Front Wheel Drive,,,5
+326,Aiways,U6,60,138,7.0 sec,160 km/h,350 km,171 Wh/km,430 km/h,"€47,588","€48,975",N/A,Front Wheel Drive,,,5
+327,Elaris,BEO 86 kWh,81,136,8.0 sec,150 km/h,390 km,208 Wh/km,290 km/h,"€53,090",N/A,N/A,Front Wheel Drive,,,5
+328,Peugeot,e-5008 73 kWh Dual Motor,73,154,6.0 sec,170 km/h,365 km,200 Wh/km,420 km/h,"* €55,000","* €55,000","* £51,000",All Wheel Drive,Towbar possible,,7
+329,Porsche,Taycan Turbo S Cross Turismo,97,434,2.5 sec,250 km/h,475 km,204 Wh/km,1050 km/h,"€211,300","€220,400","£162,500",All Wheel Drive,,,5
+330,Nio,ET5 Touring 75 kWh,70.5,160,4.0 sec,200 km/h,385 km,183 Wh/km,570 km/h,"€59,500","€63,900",N/A,All Wheel Drive,Towbar possible,1400,5
+331,Volkswagen,ID. Buzz LWB Pro,77,210,7.9 sec,160 km/h,335 km,230 Wh/km,460 km/h,"* €70,000","* €70,000","* £62,000",Rear Wheel Drive,Towbar possible,,7
+332,Porsche,Taycan 4S Sport Turismo,82.3,280,3.7 sec,250 km/h,430 km,191 Wh/km,950 km/h,"€121,800","€127,800","£96,700",All Wheel Drive,,,5
+333,Nio,EL7 75 kWh,70.5,257,3.9 sec,200 km/h,340 km,207 Wh/km,510 km/h,"€85,900","€88,900",N/A,All Wheel Drive,Towbar possible,2000,5
+334,Porsche,Taycan Sport Turismo,82.3,233,4.8 sec,230 km/h,445 km,185 Wh/km,980 km/h,"€102,400","€108,100","£87,300",Rear Wheel Drive,,,5
+335,Porsche,Taycan Plus Sport Turismo,97,212,4.8 sec,230 km/h,515 km,188 Wh/km,1130 km/h,"€108,124","€114,144","£91,754",Rear Wheel Drive,,,5
+336,Smart,#1 Pulse,62,142,4.5 sec,180 km/h,325 km,191 Wh/km,500 km/h,"€46,490","€46,055",N/A,All Wheel Drive,Towbar possible,1600,5
+337,Vinfast,VF 8 Plus Extended Range,87.7,140,5.5 sec,200 km/h,425 km,206 Wh/km,550 km/h,"€58,890","€59,790",N/A,All Wheel Drive,,,5
+338,Porsche,Taycan Turbo S Sport Turismo,97,447,2.4 sec,260 km/h,460 km,211 Wh/km,1010 km/h,"€210,800","€219,900","£162,100",All Wheel Drive,,,5
+339,Nio,EL6 75 kWh,70.5,191,4.5 sec,200 km/h,350 km,201 Wh/km,520 km/h,"€65,500","€67,900",N/A,All Wheel Drive,Towbar possible,1200,5
+340,Fiat,500e Cabrio 24 kWh,21.3,250,9.0 sec,135 km/h,135 km,158 Wh/km,230 km/h,"€35,490","€31,990",N/A,Front Wheel Drive,,,4
+341,Mercedes-benz,EQV 250 Extra-Long,60,363,12.0 sec,160 km/h,210 km,286 Wh/km,200 km/h,"€76,217",N/A,N/A,Front Wheel Drive,,,7
+342,Genesis,GV60 Sport Plus,74,206,4.0 sec,235 km/h,365 km,203 Wh/km,950 km/h,"€73,100",N/A,"£67,505",All Wheel Drive,Towbar possible,1600,5
+343,Abarth,500e Convertible,37.8,186,7.0 sec,155 km/h,225 km,168 Wh/km,370 km/h,"€40,990","€41,490","£37,195",Front Wheel Drive,,,4
+344,Porsche,Taycan 4S Plus Sport Turismo,97,254,3.7 sec,250 km/h,495 km,196 Wh/km,1090 km/h,"€127,322","€133,631","£100,996",All Wheel Drive,,,5
+345,Porsche,Taycan Turbo Sport Turismo,97,366,2.7 sec,260 km/h,470 km,206 Wh/km,1030 km/h,"€176,600","€184,000","£134,800",All Wheel Drive,,,5
+346,Fiat,500e 3+1 24 kWh,21.3,230,9.0 sec,135 km/h,135 km,158 Wh/km,230 km/h,N/A,"€30,990",N/A,Front Wheel Drive,,,4
+347,Porsche,Taycan Turbo Cross Turismo,97,348,2.8 sec,250 km/h,495 km,196 Wh/km,1090 km/h,"€177,000","€184,500","£135,200",All Wheel Drive,,,5
+348,Mercedes-benz,EQV 250 Long,60,350,12.0 sec,160 km/h,215 km,279 Wh/km,200 km/h,"€75,282",N/A,N/A,Front Wheel Drive,,,7
+349,Mercedes-benz,eVito Tourer Long 60 kWh,60,311,12.0 sec,160 km/h,220 km,273 Wh/km,210 km/h,"€68,398",N/A,N/A,Front Wheel Drive,,,8
+350,Mercedes-benz,eVito Tourer Extra-Long 60 kWh,60,322,12.0 sec,160 km/h,215 km,279 Wh/km,200 km/h,"€69,309",N/A,N/A,Front Wheel Drive,,,8
+351,Kgm,Torres EVX,72,130,8.1 sec,175 km/h,350 km,206 Wh/km,390 km/h,"€43,990","€41,250","£44,495",Front Wheel Drive,Towbar possible,1500,5
+352,Mini,Aceman E,38.5,163,7.9 sec,160 km/h,230 km,167 Wh/km,370 km/h,"* €37,000","€38,990","£31,800",Front Wheel Drive,,,5
+353,Mini,Aceman SE,49.8,137,7.1 sec,170 km/h,300 km,166 Wh/km,430 km/h,"* €40,000","* €42,000","* £36,000",Front Wheel Drive,,,5
