@@ -6,8 +6,6 @@ Here is a revised version of the text, maintaining the original context and info
 
 ### 🎯**Problem Statement**: EV Data Analysis and Chatbot Development
 
------
-
 **Problem:**
 The rapid expansion of the Electric Vehicle (EV) market demands fast, accurate, and accessible insights. However, raw EV datasets are often noisy, inconsistent, and incomplete—making it difficult to extract reliable information and build predictive models.
 
@@ -17,6 +15,7 @@ To develop a robust data preprocessing and cleaning pipeline that transforms uns
 **Goal:**
 To integrate the cleaned EV dataset with an AI-powered conversational chatbot, allowing users to interactively explore EV performance, pricing, and efficiency insights—simplifying data-driven decision-making for manufacturers, analysts, and consumers.
 
+-----
 
 ### 🧠 Week-1: EV Chatbot & Vehicle Data Analysis
 
