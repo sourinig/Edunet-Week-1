@@ -27,7 +27,6 @@ Week-1/
 ├── cars_data_RAW.csv       # Original, unprocessed dataset
 ├── cars_data_cleaned.csv   # Cleaned dataset after preprocessing
 ├── ev_vehicle.py           # Python script for EV data analysis
-├── charge-wise-chat-main.zip # Chatbot project files (compressed)
 └── README.md               # Project documentation (this file)
 ```
 
