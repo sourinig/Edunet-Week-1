@@ -19,26 +19,9 @@ The ultimate goal is to combine conversational AI with data analytics to effecti
 
 -----
 
-#### 📂 Repository Structure
-
-```
-Week-1/
-│
-├── cars_data_RAW.csv       # Original, unprocessed dataset
-├── cars_data_cleaned.csv   # Cleaned dataset after preprocessing
-├── ev_vehicle.py           # Python script for EV data analysis
-└── README.md               # Project documentation (this file)
-```
-
 -----
 
 #### ⚙ Features
-
-🔹 **Chatbot**
-
-  * A basic conversational chatbot leveraging core NLP concepts.
-  * Capable of answering common EV-related queries.
-  * Designed for customization and potential integration with Hugging Face or OpenAI APIs.
 
 🔹 **EV Data Analysis**
 
@@ -48,16 +31,6 @@ Week-1/
   * **Future Scope:** The cleaned dataset is prepared for building machine learning models (e.g., for EV range or price prediction).
 
 -----
-
-#### 🧰 Technologies Used
-
-| Area | Tools / Libraries |
-| :--- | :--- |
-| **Programming Language** | Python 3.x |
-| **Data Analysis** | pandas, numpy, matplotlib, seaborn |
-| **Chatbot / NLP** | streamlit, huggingface, requests |
-| **Environment** | VS Code, Jupyter Notebook |
-| **Version Control** | Git + GitHub |
 
 -----
 
